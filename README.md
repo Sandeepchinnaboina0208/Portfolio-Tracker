@@ -3,10 +3,6 @@
 A modern stock portfolio tracking application built with React, TypeScript, and Tailwind CSS. Track your investments, monitor performance, and manage your stock portfolio with real-time updates.
 
 
-## Live Demo
-
-🚀 [View Live Demo]https://bright-sprinkles-7b1c19.netlify.app/portfolio
-
 ## Features
 
 - 📈 Real-time stock price updates
