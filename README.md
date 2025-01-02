@@ -5,7 +5,7 @@ A modern stock portfolio tracking application built with React, TypeScript, and 
 
 ## Live Demo
 
-🚀 [View Live Demo](https://superlative-fudge-6bb485.netlify.app/portfolio)
+🚀 [View Live Demo]https://bright-sprinkles-7b1c19.netlify.app/portfolio
 
 ## Features
 
@@ -147,7 +147,7 @@ The application is deployed on Netlify. To deploy your own instance:
    ```
 
 ### Deployment URLs
--Deployment : https://superlative-fudge-6bb485.netlify.app/portfolio
+-Deployment : https://bright-sprinkles-7b1c19.netlify.app/portfolio
 
 
 ## Contributing
